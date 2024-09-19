@@ -38,7 +38,7 @@
         Console.WriteLine("Descuento por años de antiguedad :"+dsctoaños);
         Console.WriteLine("Sueldo Neto: "+sneto);
 
-        
+        Console.ReadKey();
 
 
 

@@ -33,7 +33,7 @@
         Console.WriteLine("Autos con placa color azul: " + azul);
         Console.WriteLine("Autos con placa color rojo: " + rojo);
 
-
+        Console.ReadKey();
 
 
 
