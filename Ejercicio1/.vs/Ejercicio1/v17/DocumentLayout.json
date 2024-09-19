@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\DIEGOT1\\Ejercicio1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5A624F0-AB10-4CD8-AEAB-580467FFC510}|..\\ejercicio2\\ejercicio2.csproj|c:\\users\\upn\\desktop\\diegot1\\ejercicio2\\p2program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E151B709-2B32-42CA-894B-DD07E1C61FBA}|Ejercicio1.csproj|c:\\users\\upn\\desktop\\diegot1\\ejercicio1\\p1program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E151B709-2B32-42CA-894B-DD07E1C61FBA}|Ejercicio1.csproj|solutionrelative:p1program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A624F0-AB10-4CD8-AEAB-580467FFC510}|..\\ejercicio2\\ejercicio2.csproj|c:\\users\\upn\\desktop\\diegot1\\ejercicio2\\p2program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,7 +17,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,26 +25,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "P2Program.cs",
               "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\DIEGOT1\\ejercicio2\\P2Program.cs",
               "RelativeDocumentMoniker": "..\\ejercicio2\\P2Program.cs",
               "ToolTip": "C:\\Users\\UPN\\Desktop\\DIEGOT1\\ejercicio2\\P2Program.cs",
               "RelativeToolTip": "..\\ejercicio2\\P2Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAgwCYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T13:28:12.058Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "P1Program.cs",
               "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\DIEGOT1\\Ejercicio1\\P1Program.cs",
               "RelativeDocumentMoniker": "P1Program.cs",
               "ToolTip": "C:\\Users\\UPN\\Desktop\\DIEGOT1\\Ejercicio1\\P1Program.cs",
               "RelativeToolTip": "P1Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAmwCgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T12:49:20.517Z",
               "EditorCaption": ""

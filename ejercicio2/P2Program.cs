@@ -3,10 +3,13 @@
     private static void Main(string[] args)
     {
         string i="";
-        int autos,numplaca,verde=0,azul=0,rojo=0,F=0;
+        int autos,numplaca,verde=0,azul=0,rojo=0;
 
         Console.WriteLine("Ingrese el número de autos: ");
         autos=int.Parse(Console.ReadLine());
+
+
+
         do
         {
             Console.WriteLine("Ingrese último número de la placa del auto :");
@@ -27,12 +30,13 @@
 
 
 
-
+        Console.WriteLine("\n");
         Console.WriteLine("Número de autos: " + autos);
+        Console.WriteLine("\n");
         Console.WriteLine("Autos con placa color verde: "+verde);
         Console.WriteLine("Autos con placa color azul: " + azul);
         Console.WriteLine("Autos con placa color rojo: " + rojo);
-
+        Console.WriteLine("\n");
         Console.ReadKey();
 
 

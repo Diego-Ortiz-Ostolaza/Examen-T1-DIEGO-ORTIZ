@@ -5,12 +5,13 @@
         string nombre;
         int sbruto, ventas, tiemp;
         double comision = 0, dsctoaños = 0, totalganado, sneto;
-
+        Console.WriteLine("\n");
         Console.WriteLine("Escriba el nombre del trabajador de MiEmpresa SA:");
         nombre = Console.ReadLine();
-
+        Console.WriteLine("\n");
         Console.WriteLine("Ingrese el salario bruto de " + nombre+" :");
         sbruto = int.Parse(Console.ReadLine());
+        Console.WriteLine("\n");
         Console.WriteLine("Ingrese el total de ventas de " + nombre+" :");
         ventas = int.Parse(Console.ReadLine());
         if (ventas <= 600)
@@ -34,10 +35,11 @@
 
 
         Console.WriteLine("Nombre: " + nombre);
+        Console.WriteLine("\n");
         Console.WriteLine("Total ganado :" + totalganado);
         Console.WriteLine("Descuento por años de antiguedad :"+dsctoaños);
         Console.WriteLine("Sueldo Neto: "+sneto);
-
+        Console.WriteLine("\n");
         Console.ReadKey();
 
 
